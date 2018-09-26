@@ -1,0 +1,372 @@
+{
+   "add_local_null": {
+      "message": "Hiçbir konum yok, lütfen sol alt köşedeki butonla ekle."
+   },
+   "add_local_title": {
+      "message": "Enjoy Music Player 'ın şuraya erişmesine izin ver:"
+   },
+   "add_music_location": {
+      "message": "Yerel müzik ekle"
+   },
+   "add_playlist": {
+      "description": "Çalma listesi oluştur",
+      "message": "Yeni Çalma listesi"
+   },
+   "add_to_playlist": {
+      "description": "3 müzik şuna eklendi : \u003Cplaylist name>",
+      "message": " $NUM$ müzik şuna eklendi : $PLAYLIST$ ",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         },
+         "playlist": {
+            "content": "$2"
+         }
+      }
+   },
+   "add_track": {
+      "message": "Muzik ekle"
+   },
+   "added_playlist": {
+      "message": "Çalma listesi $NAME$ eklendi",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "album_list": {
+      "message": "Albumler"
+   },
+   "analysis_music": {
+      "message": "Müzik analiz ediliyor"
+   },
+   "app_cmd_next": {
+      "message": "Sonraki parça"
+   },
+   "app_cmd_playpause": {
+      "message": "Çal/Durdur"
+   },
+   "app_cmd_prev": {
+      "message": "Önceki parça"
+   },
+   "application_description": {
+      "message": "Enjoy Music Player ile müziklerini ve online müzikleri dinleyebilirsin."
+   },
+   "application_title": {
+      "message": "Enjoy Music Player"
+   },
+   "apply": {
+      "message": "Onayla"
+   },
+   "artist_list": {
+      "message": "Sanatçılar"
+   },
+   "bruce": {
+      "message": "Bruce"
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "change_music_location": {
+      "message": "Konum Ekle/Düzenle "
+   },
+   "classic": {
+      "message": "Klasik"
+   },
+   "close_app": {
+      "message": "Uygulamayı kapat"
+   },
+   "connect_drive": {
+      "message": "Google Drive bağlan"
+   },
+   "country": {
+      "message": "Country"
+   },
+   "custom": {
+      "message": "Özel"
+   },
+   "dance": {
+      "message": "Dance"
+   },
+   "date": {
+      "message": "Tarih"
+   },
+   "default_tip": {
+      "message": "Müzikten zevk al. Hayattan zevk al."
+   },
+   "delete": {
+      "message": "Sil"
+   },
+   "desktop_notify": {
+      "message": "Bildirimler"
+   },
+   "disable_eq": {
+      "message": "Deaktifleştir"
+   },
+   "electronic": {
+      "message": "Elektronik"
+   },
+   "enable_eq": {
+      "message": "Aktifleştir"
+   },
+   "eq": {
+      "message": "Ekolayzır"
+   },
+   "eq_effect": {
+      "message": "Ekolayzır"
+   },
+   "favorite": {
+      "message": "Şuanki parçayı beğen"
+   },
+   "favorite_list": {
+      "message": "Favorilerim"
+   },
+   "file": {
+      "message": "Dosya"
+   },
+   "file_error": {
+      "description": "\u003Csong title> Çalınamıyor.Şu adresten: \u003Csong location> ",
+      "message": " $TITLE$ çalınamıyor.Şu adresten: $LOCATION$ ",
+      "placeholders": {
+         "location": {
+            "content": "$2"
+         },
+         "title": {
+            "content": "$1"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help_improve": {
+      "message": "Gizlilik"
+   },
+   "hotkey": {
+      "message": "Kısayollar"
+   },
+   "jazz": {
+      "message": "Jazz"
+   },
+   "lang": {
+      "message": "TR"
+   },
+   "load_buffer": {
+      "message": "yükleniyor..."
+   },
+   "load_connect": {
+      "message": "bağlanıyor..."
+   },
+   "load_error": {
+      "message": "Müzik yükleme hatası"
+   },
+   "loadlist_error": {
+      "message": "Yükleme listesi hatası"
+   },
+   "local_adding": {
+      "message": "Şimdi yerel müzük taramasını başlat. "
+   },
+   "local_music": {
+      "message": "Yerel"
+   },
+   "manage_drive": {
+      "message": " Belgeleri yönet"
+   },
+   "maximize": {
+      "message": "büyült"
+   },
+   "media_lib_updated": {
+      "message": "Medya kütüphanesi gümcellendi"
+   },
+   "metal": {
+      "message": "Metal"
+   },
+   "mini_mode": {
+      "message": "Mini mod"
+   },
+   "minimize": {
+      "message": "küçült"
+   },
+   "mix_error": {
+      "message": "Müzikler karıştırılırken hata meydana geldi"
+   },
+   "mix_music": {
+      "message": "müzikler şimdi karıştırılıyor..."
+   },
+   "mode_list": {
+      "message": "Sıra"
+   },
+   "mode_random": {
+      "message": "Karıştırma"
+   },
+   "mode_single": {
+      "message": "Bir defa tekrarla"
+   },
+   "music_genres": {
+      "message": "Türler"
+   },
+   "music_list": {
+      "message": "Şarkılar"
+   },
+   "music_radio": {
+      "message": "Radyo"
+   },
+   "music_trend": {
+      "message": "Yükselen müzikler"
+   },
+   "nothing_found": {
+      "message": " Müzik dosyası bulunamadı"
+   },
+   "offline_list": {
+      "message": "Offline Müzik"
+   },
+   "ok": {
+      "message": "Tamam"
+   },
+   "old": {
+      "message": "Eski"
+   },
+   "online_loading": {
+      "message": "Yükleniyor..."
+   },
+   "online_music": {
+      "message": "Online"
+   },
+   "opera": {
+      "message": "Opera"
+   },
+   "playlist_add_selected": {
+      "description": "3 müzik seçildi",
+      "message": "müzik seçildi"
+   },
+   "playlist_add_to": {
+      "description": "Şuna ekle \u003Cplaylist name>",
+      "message": "Şuna ekle"
+   },
+   "playlist_empty": {
+      "message": "Çalma listesi boş, lütfen listeden birkaç müzik seçin"
+   },
+   "playlist_name": {
+      "message": "Çalma listesi adı"
+   },
+   "pop": {
+      "message": "Pop"
+   },
+   "refresh_list": {
+      "message": "Listeyi yenile"
+   },
+   "remote_control": {
+      "message": "Uzaktan kontrol"
+   },
+   "remote_enable": {
+      "message": "Aktifleştir"
+   },
+   "remote_failure": {
+      "message": "Uzak bağlantı hatası."
+   },
+   "remote_interface": {
+      "message": "Arayüz"
+   },
+   "remote_port": {
+      "message": "Port"
+   },
+   "remote_scan": {
+      "message": "Qr kod tara ve mobil tarayıcıda link aç."
+   },
+   "remote_stop": {
+      "message": "Durdur"
+   },
+   "remote_success": {
+      "message": "Uzak bağlantı başarıyla kuruldu."
+   },
+   "remove_from_playlist": {
+      "description": "\u003Csong title> şurdan çıkarıldı : \u003Cplaylist name>",
+      "message": " $TITLE$ Şundan çıkarıldı : $PLAYLIST$ ",
+      "placeholders": {
+         "playlist": {
+            "content": "$2"
+         },
+         "title": {
+            "content": "$1"
+         }
+      }
+   },
+   "removed_playlist": {
+      "message": "Çalma listesi $NAME$ silindi",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "reset": {
+      "message": "Resetle"
+   },
+   "revoke_auth": {
+      "message": "Revoke auth"
+   },
+   "rock": {
+      "message": "Rock"
+   },
+   "scan_complete": {
+      "message": "Tarama tamamlandı"
+   },
+   "search": {
+      "message": "Ara"
+   },
+   "search_error": {
+      "message": "Arama hatası"
+   },
+   "search_local": {
+      "message": "Müzikler listesini ara"
+   },
+   "search_result_empty": {
+      "message": "Oops, Burada birşey yok ╭(╯3╰)╮."
+   },
+   "search_track": {
+      "message": "Müzik ara"
+   },
+   "setting": {
+      "message": "Ayarlar"
+   },
+   "setting_analysis": {
+      "message": "Uygulamayı geliştirmek için anonim kullanım bilgileri gönder!"
+   },
+   "setting_hotkey": {
+      "message": "Default using Media Keys (MediaNextTrack, MediaPlayPause, MediaPrevTrack).  Manually add  shortcuts by open the URL:"
+   },
+   "setting_notify": {
+      "message": "müzik çalar küçültüldğünde, müzik değişince bildirm göster."
+   },
+   "share": {
+      "message": "Şuanki parçayı Twitter ile paylaş"
+   },
+   "size": {
+      "message": "Boyut"
+   },
+   "skip_next": {
+      "message": "Sonrakini çal"
+   },
+   "song_album": {
+      "message": "Album"
+   },
+   "song_artist": {
+      "message": "Sanatçı"
+   },
+   "song_title": {
+      "message": "Başlık"
+   },
+   "song_track": {
+      "message": "Parça"
+   },
+   "songs_empty": {
+      "message": "Yerel müzik listesi boş, '+Müzik Ekle' ile müzik ekle"
+   },
+   "suggest": {
+      "message": "Öner"
+   },
+   "voice": {
+      "message": "Voice"
+   }
+}

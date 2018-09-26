@@ -1,0 +1,39 @@
+{
+  "name": "enjoymusicplayerwithplaylistproviders",
+  "version": "1.0.0",
+  "description": "enjoy music player chrome extension with added playlist functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonyhallett/Enjoy-Music-Player-Playlist-Providers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonyhallett/Enjoy-Music-Player-Playlist-Providers/issues"
+  },
+  "homepage": "https://github.com/tonyhallett/Enjoy-Music-Player-Playlist-Providers.git#readme",
+  "devDependencies": {
+    "@types/jest": "^23.3.2",
+    "@types/jsdom": "^2.0.30",
+    "fancy-log": "^1.3.2",
+    "fs-extra": "^7.0.0",
+    "gulp": "^4.0.0",
+    "gulp-cheerio": "^0.6.3",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.1",
+    "ts-loader": "^2.0.3",
+    "webpack": "^2.4.1",
+    "typescript": "^3.0.3"
+  },
+  "dependencies": {
+    "@types/chrome": "0.0.46",
+    "@types/filesystem": "0.0.28",
+    "inversify": "^4.1.0",
+    "reflect-metadata": "^0.1.10"
+  }
+}

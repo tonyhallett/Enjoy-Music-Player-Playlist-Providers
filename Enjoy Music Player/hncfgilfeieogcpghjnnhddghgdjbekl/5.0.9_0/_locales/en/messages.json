@@ -1,0 +1,372 @@
+{
+   "add_local_null": {
+      "message": "No location available, please click button on the  bottom left corner to add."
+   },
+   "add_local_title": {
+      "message": "Allow Enjoy Music Player to access following location:"
+   },
+   "add_music_location": {
+      "message": "Add Music Local"
+   },
+   "add_playlist": {
+      "description": "create playlist",
+      "message": "New Playlist"
+   },
+   "add_to_playlist": {
+      "description": "3 songs added to \u003Cplaylist name>",
+      "message": " $NUM$ songs added to $PLAYLIST$ ",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         },
+         "playlist": {
+            "content": "$2"
+         }
+      }
+   },
+   "add_track": {
+      "message": "Add Music"
+   },
+   "added_playlist": {
+      "message": "Playlist $NAME$ added",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "album_list": {
+      "message": "Albums"
+   },
+   "analysis_music": {
+      "message": "Analysing music"
+   },
+   "app_cmd_next": {
+      "message": "Next track"
+   },
+   "app_cmd_playpause": {
+      "message": "Play/Pause"
+   },
+   "app_cmd_prev": {
+      "message": "Previous track"
+   },
+   "application_description": {
+      "message": "With Enjoy Music Player, you can play local and online music easily."
+   },
+   "application_title": {
+      "message": "Enjoy Music Player"
+   },
+   "apply": {
+      "message": "Apply"
+   },
+   "artist_list": {
+      "message": "Artists"
+   },
+   "bruce": {
+      "message": "Bruce"
+   },
+   "cancel": {
+      "message": "Cancel"
+   },
+   "change_music_location": {
+      "message": "Add/Edit Location"
+   },
+   "classic": {
+      "message": "Classic"
+   },
+   "close_app": {
+      "message": "Close application"
+   },
+   "connect_drive": {
+      "message": "Access your Google Drive"
+   },
+   "country": {
+      "message": "Country"
+   },
+   "custom": {
+      "message": "Custom"
+   },
+   "dance": {
+      "message": "Dance"
+   },
+   "date": {
+      "message": "Date"
+   },
+   "default_tip": {
+      "message": "Enjoy music. Enjoy life."
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "desktop_notify": {
+      "message": "Notifications"
+   },
+   "disable_eq": {
+      "message": "Disable"
+   },
+   "electronic": {
+      "message": "Electronic"
+   },
+   "enable_eq": {
+      "message": "Enable"
+   },
+   "eq": {
+      "message": "Equalizer"
+   },
+   "eq_effect": {
+      "message": "Equalizer"
+   },
+   "favorite": {
+      "message": "Like current track"
+   },
+   "favorite_list": {
+      "message": "My Favorites"
+   },
+   "file": {
+      "message": "File"
+   },
+   "file_error": {
+      "description": "Cant't play \u003Csong title> form: \u003Csong location> ",
+      "message": "Cant't play $TITLE$ form: $LOCATION$ ",
+      "placeholders": {
+         "location": {
+            "content": "$2"
+         },
+         "title": {
+            "content": "$1"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help_improve": {
+      "message": "Privacy"
+   },
+   "hotkey": {
+      "message": "Shortcuts"
+   },
+   "jazz": {
+      "message": "Jazz"
+   },
+   "lang": {
+      "message": "EN"
+   },
+   "load_buffer": {
+      "message": "buffering..."
+   },
+   "load_connect": {
+      "message": "connecting..."
+   },
+   "load_error": {
+      "message": "Loading music error"
+   },
+   "loadlist_error": {
+      "message": "Load list error"
+   },
+   "local_adding": {
+      "message": "Start scanning and analysing local music now. "
+   },
+   "local_music": {
+      "message": "Local"
+   },
+   "manage_drive": {
+      "message": " Manage documents"
+   },
+   "maximize": {
+      "message": "maximize"
+   },
+   "media_lib_updated": {
+      "message": "Media library has been updated"
+   },
+   "metal": {
+      "message": "Metal"
+   },
+   "mini_mode": {
+      "message": "Mini mode"
+   },
+   "minimize": {
+      "message": "minimize"
+   },
+   "mix_error": {
+      "message": "Error occurred while mixing music"
+   },
+   "mix_music": {
+      "message": "mixing music now..."
+   },
+   "mode_list": {
+      "message": "Sequence"
+   },
+   "mode_random": {
+      "message": "Shuffle"
+   },
+   "mode_single": {
+      "message": "Repeat One"
+   },
+   "music_genres": {
+      "message": "Genres"
+   },
+   "music_list": {
+      "message": "Songs"
+   },
+   "music_radio": {
+      "message": "Radio"
+   },
+   "music_trend": {
+      "message": "Trending Music"
+   },
+   "nothing_found": {
+      "message": " Music file not found"
+   },
+   "offline_list": {
+      "message": "Offline Music"
+   },
+   "ok": {
+      "message": "Ok"
+   },
+   "old": {
+      "message": "Old"
+   },
+   "online_loading": {
+      "message": "Loading..."
+   },
+   "online_music": {
+      "message": "Online"
+   },
+   "opera": {
+      "message": "Opera"
+   },
+   "playlist_add_selected": {
+      "description": "3 songs selected",
+      "message": "songs selected"
+   },
+   "playlist_add_to": {
+      "description": "Add to \u003Cplaylist name>",
+      "message": "Add to"
+   },
+   "playlist_empty": {
+      "message": "Playlist is empty, please pick some music from songs list"
+   },
+   "playlist_name": {
+      "message": "Playlist Name"
+   },
+   "pop": {
+      "message": "Pop"
+   },
+   "refresh_list": {
+      "message": "Refresh list"
+   },
+   "remote_control": {
+      "message": "Remote Control"
+   },
+   "remote_enable": {
+      "message": "Enable"
+   },
+   "remote_failure": {
+      "message": "Remote control error."
+   },
+   "remote_interface": {
+      "message": "Interface"
+   },
+   "remote_port": {
+      "message": "Port"
+   },
+   "remote_scan": {
+      "message": "Scan Qr code and open link on mobile browser now."
+   },
+   "remote_stop": {
+      "message": "Stop"
+   },
+   "remote_success": {
+      "message": "Remote control connected successfully."
+   },
+   "remove_from_playlist": {
+      "description": "\u003Csong title> removed from \u003Cplaylist name>",
+      "message": " $TITLE$ removed from $PLAYLIST$ ",
+      "placeholders": {
+         "playlist": {
+            "content": "$2"
+         },
+         "title": {
+            "content": "$1"
+         }
+      }
+   },
+   "removed_playlist": {
+      "message": "Playlist $NAME$ removed",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "reset": {
+      "message": "Rest"
+   },
+   "revoke_auth": {
+      "message": "Revoke auth"
+   },
+   "rock": {
+      "message": "Rock"
+   },
+   "scan_complete": {
+      "message": "Scanning complete"
+   },
+   "search": {
+      "message": "Search"
+   },
+   "search_error": {
+      "message": "Search Error"
+   },
+   "search_local": {
+      "message": "Search the songs list"
+   },
+   "search_result_empty": {
+      "message": "Oops, I got nothing here ╭(╯3╰)╮."
+   },
+   "search_track": {
+      "message": "Search Music"
+   },
+   "setting": {
+      "message": "Setting"
+   },
+   "setting_analysis": {
+      "message": "Send anonymous usage data to help us to improve our app!"
+   },
+   "setting_hotkey": {
+      "message": "Default using Media Keys (MediaNextTrack, MediaPlayPause, MediaPrevTrack).  Manually add  shortcuts by open the URL:"
+   },
+   "setting_notify": {
+      "message": "When the player is minimized, show notifications when changing to next song."
+   },
+   "share": {
+      "message": "Share current to Twitter"
+   },
+   "size": {
+      "message": "Size"
+   },
+   "skip_next": {
+      "message": "Play Next One"
+   },
+   "song_album": {
+      "message": "Album"
+   },
+   "song_artist": {
+      "message": "Artist"
+   },
+   "song_title": {
+      "message": "Title"
+   },
+   "song_track": {
+      "message": "Track"
+   },
+   "songs_empty": {
+      "message": "Local songs list is empty, click '+Add Music' to add songs."
+   },
+   "suggest": {
+      "message": "Suggest"
+   },
+   "voice": {
+      "message": "Voice"
+   }
+}

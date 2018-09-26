@@ -1,0 +1,372 @@
+{
+   "add_local_null": {
+      "message": "Nenhum local disponível, clique no botão no canto inferior esquerdo para adicionar."
+   },
+   "add_local_title": {
+      "message": "Permitir o Enjoy Music Player para acessar o seguinte local:"
+   },
+   "add_music_location": {
+      "message": "Adicionar música Local"
+   },
+   "add_playlist": {
+      "description": "criar playlist",
+      "message": "Nova Playlist"
+   },
+   "add_to_playlist": {
+      "description": "3 músicas adicionadas à \u003Cplaylist name>",
+      "message": " $NUM$ músicas adicionadas à $PLAYLIST$ ",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         },
+         "playlist": {
+            "content": "$2"
+         }
+      }
+   },
+   "add_track": {
+      "message": "Adicionar Música"
+   },
+   "added_playlist": {
+      "message": "Playlist $NAME$ adicionada",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "album_list": {
+      "message": "Álbuns"
+   },
+   "analysis_music": {
+      "message": "Analisando a música"
+   },
+   "app_cmd_next": {
+      "message": "Próxima faixa"
+   },
+   "app_cmd_playpause": {
+      "message": "Play/Pause"
+   },
+   "app_cmd_prev": {
+      "message": "Faixa anterior"
+   },
+   "application_description": {
+      "message": "Com Enjoy Music Player, você pode reproduzir facilmente tanto música local como online."
+   },
+   "application_title": {
+      "message": "Enjoy Music Player"
+   },
+   "apply": {
+      "message": "Aplicar"
+   },
+   "artist_list": {
+      "message": "Artistas"
+   },
+   "bruce": {
+      "message": "Bruce"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "change_music_location": {
+      "message": "Adicionar/Editar Localização"
+   },
+   "classic": {
+      "message": "Classic"
+   },
+   "close_app": {
+      "message": "Fechar"
+   },
+   "connect_drive": {
+      "message": "Acesse seu Google Drive"
+   },
+   "country": {
+      "message": "Country"
+   },
+   "custom": {
+      "message": "Personalizado"
+   },
+   "dance": {
+      "message": "Dance"
+   },
+   "date": {
+      "message": "Data"
+   },
+   "default_tip": {
+      "message": "Aproveite a música. Aproveite a vida."
+   },
+   "delete": {
+      "message": "Excluir"
+   },
+   "desktop_notify": {
+      "message": "Notificações"
+   },
+   "disable_eq": {
+      "message": "Desativar"
+   },
+   "electronic": {
+      "message": "Electronic"
+   },
+   "enable_eq": {
+      "message": "Habilitar"
+   },
+   "eq": {
+      "message": "Equalizador"
+   },
+   "eq_effect": {
+      "message": "Equalizador"
+   },
+   "favorite": {
+      "message": "Favoritar faixa atual"
+   },
+   "favorite_list": {
+      "message": "Meus favoritos"
+   },
+   "file": {
+      "message": "Arquivo"
+   },
+   "file_error": {
+      "description": "Não foi possível tocar \u003Csong title> de: \u003Csong location> ",
+      "message": "Não foi possível tocar $TITLE$ de: $LOCATION$ ",
+      "placeholders": {
+         "location": {
+            "content": "$2"
+         },
+         "title": {
+            "content": "$1"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help_improve": {
+      "message": "Privacidade"
+   },
+   "hotkey": {
+      "message": "Atalhos"
+   },
+   "jazz": {
+      "message": "Jazz"
+   },
+   "lang": {
+      "message": "PT_BR"
+   },
+   "load_buffer": {
+      "message": "buffering..."
+   },
+   "load_connect": {
+      "message": "conectando..."
+   },
+   "load_error": {
+      "message": "Erro ao carregar a música"
+   },
+   "loadlist_error": {
+      "message": "Erro na lista de carregamento"
+   },
+   "local_adding": {
+      "message": "Começando a escanear e analisar a música local agora."
+   },
+   "local_music": {
+      "message": "Local"
+   },
+   "manage_drive": {
+      "message": " Gerenciar documentos"
+   },
+   "maximize": {
+      "message": "maximizar"
+   },
+   "media_lib_updated": {
+      "message": "A biblioteca de mídia foi atualizada"
+   },
+   "metal": {
+      "message": "Metal"
+   },
+   "mini_mode": {
+      "message": "Modo mini"
+   },
+   "minimize": {
+      "message": "minimizar"
+   },
+   "mix_error": {
+      "message": "Ocorreu um erro ao mixar a música"
+   },
+   "mix_music": {
+      "message": "mixando música agora..."
+   },
+   "mode_list": {
+      "message": "Sequência"
+   },
+   "mode_random": {
+      "message": "Aleatório"
+   },
+   "mode_single": {
+      "message": "Repetir um"
+   },
+   "music_genres": {
+      "message": "Gêneros"
+   },
+   "music_list": {
+      "message": "Músicas"
+   },
+   "music_radio": {
+      "message": "Rádio"
+   },
+   "music_trend": {
+      "message": "Músicas TOP"
+   },
+   "nothing_found": {
+      "message": " Arquivo de música não encontrado"
+   },
+   "offline_list": {
+      "message": "Músicas Offline"
+   },
+   "ok": {
+      "message": "Ok"
+   },
+   "old": {
+      "message": "Old"
+   },
+   "online_loading": {
+      "message": "Carregando..."
+   },
+   "online_music": {
+      "message": "Online"
+   },
+   "opera": {
+      "message": "Opera"
+   },
+   "playlist_add_selected": {
+      "description": "3 músicas selecionadas",
+      "message": "músicas selecionadas"
+   },
+   "playlist_add_to": {
+      "description": "Adicionar à \u003Cplaylist name>",
+      "message": "Adicionar à"
+   },
+   "playlist_empty": {
+      "message": "A lista de reprodução está vazia; por favor, escolha algumas músicas da lista de músicas"
+   },
+   "playlist_name": {
+      "message": "Nome da Playlist"
+   },
+   "pop": {
+      "message": "Pop"
+   },
+   "refresh_list": {
+      "message": "Atualizar lista"
+   },
+   "remote_control": {
+      "message": "Controle remoto"
+   },
+   "remote_enable": {
+      "message": "Habilitar"
+   },
+   "remote_failure": {
+      "message": "Erro no controle remoto."
+   },
+   "remote_interface": {
+      "message": "Interface"
+   },
+   "remote_port": {
+      "message": "Porta"
+   },
+   "remote_scan": {
+      "message": "Escanear código QR e abrir link no navegador para dispositivos móveis agora."
+   },
+   "remote_stop": {
+      "message": "Parar"
+   },
+   "remote_success": {
+      "message": "Controle remoto conectado com sucesso."
+   },
+   "remove_from_playlist": {
+      "description": "\u003Csong title> removido de \u003Cplaylist name>",
+      "message": " $TITLE$ removido de $PLAYLIST$ ",
+      "placeholders": {
+         "playlist": {
+            "content": "$2"
+         },
+         "title": {
+            "content": "$1"
+         }
+      }
+   },
+   "removed_playlist": {
+      "message": "Playlist $NAME$ removida",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "reset": {
+      "message": "Rest"
+   },
+   "revoke_auth": {
+      "message": "Revogar autenticação"
+   },
+   "rock": {
+      "message": "Rock"
+   },
+   "scan_complete": {
+      "message": "Escaneamento completo"
+   },
+   "search": {
+      "message": "Pesquisa"
+   },
+   "search_error": {
+      "message": "Erro na pesquisa"
+   },
+   "search_local": {
+      "message": "Pesquisar a lista de músicas"
+   },
+   "search_result_empty": {
+      "message": "Opa, não tem nada aqui ╭(╯3╰)╮."
+   },
+   "search_track": {
+      "message": "Pesquisar Música"
+   },
+   "setting": {
+      "message": "Configuração"
+   },
+   "setting_analysis": {
+      "message": "Enviar dados de utilização anônimos para nos ajudar a melhorar a nossa aplicação!"
+   },
+   "setting_hotkey": {
+      "message": "Padrão usando as Chaves de Mídia (MediaNextTrack, MediaPlayPause, MediaPrevTrack).  Adicionando atalhos manualmente para abrir a URL:"
+   },
+   "setting_notify": {
+      "message": "Quando o player estiver minimizado, mostre notificações quando mudar para a próxima música."
+   },
+   "share": {
+      "message": "Compartilhar no Twitter"
+   },
+   "size": {
+      "message": "Tamanho"
+   },
+   "skip_next": {
+      "message": "Tocar Próxima"
+   },
+   "song_album": {
+      "message": "Álbum"
+   },
+   "song_artist": {
+      "message": "Artista"
+   },
+   "song_title": {
+      "message": "Título"
+   },
+   "song_track": {
+      "message": "Faixa"
+   },
+   "songs_empty": {
+      "message": "A lista de músicas locais está vazia, clique em 'Adicionar música' para adicionar músicas."
+   },
+   "suggest": {
+      "message": "Sugestão"
+   },
+   "voice": {
+      "message": "Voice"
+   }
+}

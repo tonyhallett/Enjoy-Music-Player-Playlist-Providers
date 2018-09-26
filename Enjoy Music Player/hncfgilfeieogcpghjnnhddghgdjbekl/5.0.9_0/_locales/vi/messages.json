@@ -1,0 +1,372 @@
+{
+   "add_local_null": {
+      "message": "Địa chỉ không đúng, nhấn vào nút bên trái phía dưới để thêm."
+   },
+   "add_local_title": {
+      "message": "Cho phép Enjoy Music Player truy cập vào:"
+   },
+   "add_music_location": {
+      "message": "Thêm bài hát trên "
+   },
+   "add_playlist": {
+      "description": "Tạo danh sách mới",
+      "message": "Danh sách mới"
+   },
+   "add_to_playlist": {
+      "description": "3 bài hát đã thêm vào \u003Ctên danh sách>",
+      "message": " $NUM$ bài hát đã thêm vào $PLAYLIST$ ",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         },
+         "playlist": {
+            "content": "$2"
+         }
+      }
+   },
+   "add_track": {
+      "message": "Thêm bài hát"
+   },
+   "added_playlist": {
+      "message": "Danh sách $NAME$ đã được thêm",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "album_list": {
+      "message": "Albums"
+   },
+   "analysis_music": {
+      "message": "Đang phân tích bài hát"
+   },
+   "app_cmd_next": {
+      "message": "Đi tới bài tiếp theo"
+   },
+   "app_cmd_playpause": {
+      "message": "Chạy/Tạm dừng"
+   },
+   "app_cmd_prev": {
+      "message": "Quay lại bài trước đó"
+   },
+   "application_description": {
+      "message": "Với Enjoy Music Player, bạn có thể nghe nhạc offline cũng như online dễ dàng h."
+   },
+   "application_title": {
+      "message": "Enjoy Music Player"
+   },
+   "apply": {
+      "message": "Áp dụng"
+   },
+   "artist_list": {
+      "message": "Các nghệ sĩ"
+   },
+   "bruce": {
+      "message": "Bruce"
+   },
+   "cancel": {
+      "message": "Thoát"
+   },
+   "change_music_location": {
+      "message": "Thêm/Chỉnh sửa vị trí"
+   },
+   "classic": {
+      "message": "Classic"
+   },
+   "close_app": {
+      "message": "Đóng ứng dụng"
+   },
+   "connect_drive": {
+      "message": "Cho phép truy cập Google Drive"
+   },
+   "country": {
+      "message": "Country"
+   },
+   "custom": {
+      "message": "Custom"
+   },
+   "dance": {
+      "message": "Dance"
+   },
+   "date": {
+      "message": "Ngày"
+   },
+   "default_tip": {
+      "message": "Thưởng thức âm nhạc. Tận hưởng cuộc sống."
+   },
+   "delete": {
+      "message": "Xóa"
+   },
+   "desktop_notify": {
+      "message": "Thông báo"
+   },
+   "disable_eq": {
+      "message": "Tắt"
+   },
+   "electronic": {
+      "message": "Electronic"
+   },
+   "enable_eq": {
+      "message": "Bật"
+   },
+   "eq": {
+      "message": "Bộ chỉnh âm"
+   },
+   "eq_effect": {
+      "message": "Bộ chỉnh âm"
+   },
+   "favorite": {
+      "message": "Thích bài hát hiện tại"
+   },
+   "favorite_list": {
+      "message": "Ưa thích của tôi"
+   },
+   "file": {
+      "message": "File"
+   },
+   "file_error": {
+      "description": "Không thể chơi \u003Csong title> từ: \u003Csong location> ",
+      "message": "Không thể chơi $TITLE$ từ: $LOCATION$ ",
+      "placeholders": {
+         "location": {
+            "content": "$2"
+         },
+         "title": {
+            "content": "$1"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Drive"
+   },
+   "help_improve": {
+      "message": "Quyền riêng tư"
+   },
+   "hotkey": {
+      "message": "Shortcuts"
+   },
+   "jazz": {
+      "message": "Jazz"
+   },
+   "lang": {
+      "message": "VI"
+   },
+   "load_buffer": {
+      "message": "Đệm..."
+   },
+   "load_connect": {
+      "message": "Đang kết nối..."
+   },
+   "load_error": {
+      "message": "Tải bài hát lỗi."
+   },
+   "loadlist_error": {
+      "message": "Tải danh sách lỗi"
+   },
+   "local_adding": {
+      "message": "Bắt đầu quét và phân tích các bài hát trên máy tính. "
+   },
+   "local_music": {
+      "message": "Trên máy tính"
+   },
+   "manage_drive": {
+      "message": " Quản lý dữ liệu"
+   },
+   "maximize": {
+      "message": "Phóng to"
+   },
+   "media_lib_updated": {
+      "message": "Thư viện media đã được cập nhật"
+   },
+   "metal": {
+      "message": "Metal"
+   },
+   "mini_mode": {
+      "message": "Chế độ mini"
+   },
+   "minimize": {
+      "message": "Thu nhỏ"
+   },
+   "mix_error": {
+      "message": "Lỗi trong khi pha trộn âm."
+   },
+   "mix_music": {
+      "message": "Đang pha trộn âm nhạc..."
+   },
+   "mode_list": {
+      "message": "Lần lượt"
+   },
+   "mode_random": {
+      "message": "Xáo trộn"
+   },
+   "mode_single": {
+      "message": "Lặp lại một"
+   },
+   "music_genres": {
+      "message": "Thể loại"
+   },
+   "music_list": {
+      "message": "Các bài hát"
+   },
+   "music_radio": {
+      "message": "Radio"
+   },
+   "music_trend": {
+      "message": "Xu hướng âm nhạc"
+   },
+   "nothing_found": {
+      "message": " Không tìm thấy file nhạc"
+   },
+   "offline_list": {
+      "message": "Bài hát trên máy tính"
+   },
+   "ok": {
+      "message": "Ok"
+   },
+   "old": {
+      "message": "Old"
+   },
+   "online_loading": {
+      "message": "Đang tải..."
+   },
+   "online_music": {
+      "message": "Online"
+   },
+   "opera": {
+      "message": "Opera"
+   },
+   "playlist_add_selected": {
+      "description": "3 đã chọn",
+      "message": "Các bài hát đã chọn"
+   },
+   "playlist_add_to": {
+      "description": "Thêm vào \u003Ctên danh sách nhạc>",
+      "message": "Thêm vào"
+   },
+   "playlist_empty": {
+      "message": "Danh sách chạy nhạc rỗng, xin chọn một bài trong danh sách"
+   },
+   "playlist_name": {
+      "message": "Tên danh sách"
+   },
+   "pop": {
+      "message": "Pop"
+   },
+   "refresh_list": {
+      "message": "Làm mới danh sách"
+   },
+   "remote_control": {
+      "message": "Phím điều khiển"
+   },
+   "remote_enable": {
+      "message": "Bật"
+   },
+   "remote_failure": {
+      "message": "Kết nối điều khiển lỗi."
+   },
+   "remote_interface": {
+      "message": "Giao diện"
+   },
+   "remote_port": {
+      "message": "Cổng"
+   },
+   "remote_scan": {
+      "message": "Quét mã QR và mở link trên trình duyệt điện thoại ngay bây giờ."
+   },
+   "remote_stop": {
+      "message": "Dừng"
+   },
+   "remote_success": {
+      "message": "Kết nối điều khiển thành công."
+   },
+   "remove_from_playlist": {
+      "description": "\u003CBài hát> đã xóa khỏi \u003Ctên danh sách>",
+      "message": " $TITLE$ đã xóa khỏi $PLAYLIST$ ",
+      "placeholders": {
+         "playlist": {
+            "content": "$2"
+         },
+         "title": {
+            "content": "$1"
+         }
+      }
+   },
+   "removed_playlist": {
+      "message": "Danh sách $NAME$ đã xóa",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "reset": {
+      "message": "Rest"
+   },
+   "revoke_auth": {
+      "message": "Thu hồi xác thực"
+   },
+   "rock": {
+      "message": "Rock"
+   },
+   "scan_complete": {
+      "message": "Quét thành công"
+   },
+   "search": {
+      "message": "Tìm kiếm"
+   },
+   "search_error": {
+      "message": "Tìm kiếm lỗi"
+   },
+   "search_local": {
+      "message": "Tìm kiếm danh sách bài hát"
+   },
+   "search_result_empty": {
+      "message": "Ố ồ, Không tìm thấy gì ở đây ╭(╯3╰)╮."
+   },
+   "search_track": {
+      "message": "Tìm bài hát"
+   },
+   "setting": {
+      "message": "Thiết lập"
+   },
+   "setting_analysis": {
+      "message": "Gửi dữ liệu ẩn danh để giúp chúng tôi cải thiện ứng dụng"
+   },
+   "setting_hotkey": {
+      "message": "Sử dụng phím mặc định(MediaNextTrack, MediaPlayPause, MediaPrevTrack). Thêm shortcuts bằng tay theo URL:"
+   },
+   "setting_notify": {
+      "message": "Khi chương trình thu nhỏ, hiển thị thông báo khi chuyển bài hát."
+   },
+   "share": {
+      "message": "Chia sẻ bài hát hiện tại lên Twitter"
+   },
+   "size": {
+      "message": "Kích cỡ"
+   },
+   "skip_next": {
+      "message": "Chỉ chơi một bài"
+   },
+   "song_album": {
+      "message": "Album"
+   },
+   "song_artist": {
+      "message": "Nghệ sĩ"
+   },
+   "song_title": {
+      "message": "Tiêu đề"
+   },
+   "song_track": {
+      "message": "Track"
+   },
+   "songs_empty": {
+      "message": "Danh sách các bài hát trên máy không có, Nhấn '+Thêm bài hát' để thêm các bài hát"
+   },
+   "suggest": {
+      "message": "Suggest"
+   },
+   "voice": {
+      "message": "Voice"
+   }
+}

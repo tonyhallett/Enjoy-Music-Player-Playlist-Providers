@@ -1,0 +1,372 @@
+{
+   "add_local_null": {
+      "message": "どのフォルダも許可されてません。左下のボタンで追加してください。"
+   },
+   "add_local_title": {
+      "message": "エミュプレに次のフォルダにアクセスを許可する:"
+   },
+   "add_music_location": {
+      "message": "ローカル曲を追加"
+   },
+   "add_playlist": {
+      "description": "プレイリストを作成",
+      "message": "新プレイリスト"
+   },
+   "add_to_playlist": {
+      "description": "3 曲が \u003Cplaylist name> に追加されました",
+      "message": " $NUM$ 曲が $PLAYLIST$ に追加されました",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         },
+         "playlist": {
+            "content": "$2"
+         }
+      }
+   },
+   "add_track": {
+      "message": "曲を追加"
+   },
+   "added_playlist": {
+      "message": "$NAME$　が作成されました",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "album_list": {
+      "message": "アルバム一覧"
+   },
+   "analysis_music": {
+      "message": "音楽アナライザー"
+   },
+   "app_cmd_next": {
+      "message": "次曲"
+   },
+   "app_cmd_playpause": {
+      "message": "再生・一時停止"
+   },
+   "app_cmd_prev": {
+      "message": "全曲"
+   },
+   "application_description": {
+      "message": "エミュプレを使ってオフラインとオンラインの音楽を簡単に聴こう！"
+   },
+   "application_title": {
+      "message": "Enjoy Music Player"
+   },
+   "apply": {
+      "message": "実施する"
+   },
+   "artist_list": {
+      "message": "アーティスト一覧"
+   },
+   "bruce": {
+      "message": "ブルース"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "change_music_location": {
+      "message": "フォルダを追加"
+   },
+   "classic": {
+      "message": "クラシック"
+   },
+   "close_app": {
+      "message": "閉じる"
+   },
+   "connect_drive": {
+      "message": "ドライブとつなげる"
+   },
+   "country": {
+      "message": "カントリー"
+   },
+   "custom": {
+      "message": "カスタム"
+   },
+   "dance": {
+      "message": "ダンス"
+   },
+   "date": {
+      "message": "日付"
+   },
+   "default_tip": {
+      "message": "音楽を楽もう。人生を楽しもう。"
+   },
+   "delete": {
+      "message": "消去"
+   },
+   "desktop_notify": {
+      "message": "通知"
+   },
+   "disable_eq": {
+      "message": "無効化"
+   },
+   "electronic": {
+      "message": "エレクトロニック"
+   },
+   "enable_eq": {
+      "message": "有効化"
+   },
+   "eq": {
+      "message": "イコライザー"
+   },
+   "eq_effect": {
+      "message": "イコライザー"
+   },
+   "favorite": {
+      "message": "この曲をお気に入りに追加"
+   },
+   "favorite_list": {
+      "message": "お気に入り"
+   },
+   "file": {
+      "message": "ファイル"
+   },
+   "file_error": {
+      "description": "\u003Csong title> のファイルはサポートしていません: \u003Csong location> ",
+      "message": "$TITLE$ のファイルはサポートしていません: $LOCATION$ ",
+      "placeholders": {
+         "location": {
+            "content": "$2"
+         },
+         "title": {
+            "content": "$1"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "グーグルドライブ"
+   },
+   "help_improve": {
+      "message": "プライバシー"
+   },
+   "hotkey": {
+      "message": "ショートカット"
+   },
+   "jazz": {
+      "message": "ジャズ"
+   },
+   "lang": {
+      "message": "JA"
+   },
+   "load_buffer": {
+      "message": "バッファ中..."
+   },
+   "load_connect": {
+      "message": "コネクト中..."
+   },
+   "load_error": {
+      "message": "音楽が更新できませんでした"
+   },
+   "loadlist_error": {
+      "message": "一覧をロードするのにエラーが発生しました"
+   },
+   "local_adding": {
+      "message": "すぐにローカル曲をスキャンする "
+   },
+   "local_music": {
+      "message": "ローカル"
+   },
+   "manage_drive": {
+      "message": " ドライブ管理"
+   },
+   "maximize": {
+      "message": "最大化"
+   },
+   "media_lib_updated": {
+      "message": "メディアライブラリーが更新されました"
+   },
+   "metal": {
+      "message": "メタル"
+   },
+   "mini_mode": {
+      "message": "ミニモード"
+   },
+   "minimize": {
+      "message": "最小化"
+   },
+   "mix_error": {
+      "message": "曲を混ぜあわせながらエラーが発生しました"
+   },
+   "mix_music": {
+      "message": "曲を混ぜあわせ中..."
+   },
+   "mode_list": {
+      "message": "リピート"
+   },
+   "mode_random": {
+      "message": "シャッフル"
+   },
+   "mode_single": {
+      "message": "一回リピート"
+   },
+   "music_genres": {
+      "message": "ジャンル"
+   },
+   "music_list": {
+      "message": "曲一覧"
+   },
+   "music_radio": {
+      "message": "ラジオ"
+   },
+   "music_trend": {
+      "message": "トレンド"
+   },
+   "nothing_found": {
+      "message": " 曲が見つかりませんでした"
+   },
+   "offline_list": {
+      "message": "オフライン"
+   },
+   "ok": {
+      "message": "OK"
+   },
+   "old": {
+      "message": "オールド"
+   },
+   "online_loading": {
+      "message": "少々お待ちください..."
+   },
+   "online_music": {
+      "message": "オンライン"
+   },
+   "opera": {
+      "message": "オペラ"
+   },
+   "playlist_add_selected": {
+      "description": "3曲選択しました",
+      "message": "曲選択しました"
+   },
+   "playlist_add_to": {
+      "description": "プレイリストに追加：\u003Cplaylist name>",
+      "message": "プレイリストに追加："
+   },
+   "playlist_empty": {
+      "message": "プレイリストが空です。「曲一覧」から追加してください。"
+   },
+   "playlist_name": {
+      "message": "プレイリスト名"
+   },
+   "pop": {
+      "message": "ポップ"
+   },
+   "refresh_list": {
+      "message": "一覧を更新"
+   },
+   "remote_control": {
+      "message": "リモートコントロール"
+   },
+   "remote_enable": {
+      "message": "開始"
+   },
+   "remote_failure": {
+      "message": "繋がりにエラーが発生しました"
+   },
+   "remote_interface": {
+      "message": "インターフェイス"
+   },
+   "remote_port": {
+      "message": "ポート"
+   },
+   "remote_scan": {
+      "message": "携帯でQRコードをスキャンしてください。"
+   },
+   "remote_stop": {
+      "message": "停止"
+   },
+   "remote_success": {
+      "message": "繋がりに成功しました"
+   },
+   "remove_from_playlist": {
+      "description": "\u003Csong title> が \u003Cplaylist name> から消されました",
+      "message": " $TITLE$ が $PLAYLIST$ から消されました",
+      "placeholders": {
+         "playlist": {
+            "content": "$2"
+         },
+         "title": {
+            "content": "$1"
+         }
+      }
+   },
+   "removed_playlist": {
+      "message": "$NAME$ が削除されました",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "reset": {
+      "message": "リセット"
+   },
+   "revoke_auth": {
+      "message": "オースを取り消す"
+   },
+   "rock": {
+      "message": "ロック"
+   },
+   "scan_complete": {
+      "message": "スカン完了"
+   },
+   "search": {
+      "message": "検索"
+   },
+   "search_error": {
+      "message": "検索エラー"
+   },
+   "search_local": {
+      "message": "ローカル曲一覧から探す"
+   },
+   "search_result_empty": {
+      "message": "ここに表示するものはありませんよ ╭(╯3╰)╮."
+   },
+   "search_track": {
+      "message": "曲を検索"
+   },
+   "setting": {
+      "message": "設定"
+   },
+   "setting_analysis": {
+      "message": "アプリの改善のため無名アノニマスデータを送信する。"
+   },
+   "setting_hotkey": {
+      "message": "デフォルトはメディアキー (MediaNextTrack, MediaPlayPause, MediaPrevTrack)を使っています。変えるには次のリンクに行ってください:"
+   },
+   "setting_notify": {
+      "message": "エミュプレが最小化されていて、曲が変わるとき通知する"
+   },
+   "share": {
+      "message": "この曲をツイッターで共有"
+   },
+   "size": {
+      "message": "サイズ"
+   },
+   "skip_next": {
+      "message": "次曲"
+   },
+   "song_album": {
+      "message": "アルバム"
+   },
+   "song_artist": {
+      "message": "アーティスト"
+   },
+   "song_title": {
+      "message": "曲名"
+   },
+   "song_track": {
+      "message": "トラック"
+   },
+   "songs_empty": {
+      "message": "ローカル曲がありません。「曲を追加」をクリックして追加してください"
+   },
+   "suggest": {
+      "message": "サジェスト"
+   },
+   "voice": {
+      "message": "ヴォイス"
+   }
+}

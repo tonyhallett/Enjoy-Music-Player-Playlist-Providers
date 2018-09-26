@@ -1,0 +1,372 @@
+{
+   "add_local_null": {
+      "message": "Немає вільного розташування, натисніть клавішу у лівому нижньому куті."
+   },
+   "add_local_title": {
+      "message": "Дозвольте Enjoy Music Player доступ до наступних розташувань:"
+   },
+   "add_music_location": {
+      "message": "Додати локальну музику"
+   },
+   "add_playlist": {
+      "description": "Створити плейлист",
+      "message": "New Playlist"
+   },
+   "add_to_playlist": {
+      "description": "3 пісні додано у \u003Cplaylist name>",
+      "message": " $NUM$ пісні додано у $PLAYLIST$ ",
+      "placeholders": {
+         "num": {
+            "content": "$1"
+         },
+         "playlist": {
+            "content": "$2"
+         }
+      }
+   },
+   "add_track": {
+      "message": "Додати музику"
+   },
+   "added_playlist": {
+      "message": "Плейлист $NAME$ додано",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "album_list": {
+      "message": "Альбоми"
+   },
+   "analysis_music": {
+      "message": "Аналізація музики"
+   },
+   "app_cmd_next": {
+      "message": "Наступний трек"
+   },
+   "app_cmd_playpause": {
+      "message": "Грати/Пауза"
+   },
+   "app_cmd_prev": {
+      "message": "Попередній трек"
+   },
+   "application_description": {
+      "message": "Разом з Enjoy Music Player ти можеш слухати локальну та онлайн музику."
+   },
+   "application_title": {
+      "message": "Enjoy Music Player"
+   },
+   "apply": {
+      "message": "Застосувати"
+   },
+   "artist_list": {
+      "message": "Артисти"
+   },
+   "bruce": {
+      "message": "Bruce"
+   },
+   "cancel": {
+      "message": "Відмінити"
+   },
+   "change_music_location": {
+      "message": "Додати/видалити музику"
+   },
+   "classic": {
+      "message": "Classic"
+   },
+   "close_app": {
+      "message": "Закрити програму"
+   },
+   "connect_drive": {
+      "message": "Увійти в Google Диск"
+   },
+   "country": {
+      "message": "Country"
+   },
+   "custom": {
+      "message": "Свій стиль"
+   },
+   "dance": {
+      "message": "Dance"
+   },
+   "date": {
+      "message": "Дата"
+   },
+   "default_tip": {
+      "message": "Насолоджуйся музикою. Насолоджуйся життям."
+   },
+   "delete": {
+      "message": "Видалити"
+   },
+   "desktop_notify": {
+      "message": "Повідомлення"
+   },
+   "disable_eq": {
+      "message": "Вимкнути"
+   },
+   "electronic": {
+      "message": "Electronic"
+   },
+   "enable_eq": {
+      "message": "Увімкнено"
+   },
+   "eq": {
+      "message": "Еквалайзер"
+   },
+   "eq_effect": {
+      "message": "Еквалайзер"
+   },
+   "favorite": {
+      "message": "Вподобати поточний трек"
+   },
+   "favorite_list": {
+      "message": "Моє вподобане"
+   },
+   "file": {
+      "message": "Файл"
+   },
+   "file_error": {
+      "description": "Неможливо грати \u003Csong title> з: \u003Csong location> ",
+      "message": "Неможливо грати $TITLE$ з: $LOCATION$ ",
+      "placeholders": {
+         "location": {
+            "content": "$2"
+         },
+         "title": {
+            "content": "$1"
+         }
+      }
+   },
+   "google_drive": {
+      "message": "Google Диск"
+   },
+   "help_improve": {
+      "message": "Конфіденційність"
+   },
+   "hotkey": {
+      "message": "Ярлики"
+   },
+   "jazz": {
+      "message": "Jazz"
+   },
+   "lang": {
+      "message": "UK"
+   },
+   "load_buffer": {
+      "message": "буферизація ..."
+   },
+   "load_connect": {
+      "message": "З'єднання ..."
+   },
+   "load_error": {
+      "message": "Упс, помилка"
+   },
+   "loadlist_error": {
+      "message": "Та йой, помилка завантаження збірника ..."
+   },
+   "local_adding": {
+      "message": "Починаю сканувати та аналізувати локальну музику. "
+   },
+   "local_music": {
+      "message": "Локальне"
+   },
+   "manage_drive": {
+      "message": "Управління документами"
+   },
+   "maximize": {
+      "message": "Максимізувати"
+   },
+   "media_lib_updated": {
+      "message": "Бібліотеку оновлено"
+   },
+   "metal": {
+      "message": "Metal"
+   },
+   "mini_mode": {
+      "message": "Міні режим"
+   },
+   "minimize": {
+      "message": "мінімілізувати"
+   },
+   "mix_error": {
+      "message": "Сорі, сталася помилка при змішуванні музики ..."
+   },
+   "mix_music": {
+      "message": "Змішую музику зараз ..."
+   },
+   "mode_list": {
+      "message": "Послідовність"
+   },
+   "mode_random": {
+      "message": "Змішати"
+   },
+   "mode_single": {
+      "message": "Повторити один"
+   },
+   "music_genres": {
+      "message": "Жанри"
+   },
+   "music_list": {
+      "message": "Пісні"
+   },
+   "music_radio": {
+      "message": "Радіо"
+   },
+   "music_trend": {
+      "message": "Музичні тенденції"
+   },
+   "nothing_found": {
+      "message": "Музики не знайдено"
+   },
+   "offline_list": {
+      "message": "Музика офлайн"
+   },
+   "ok": {
+      "message": "Окей"
+   },
+   "old": {
+      "message": "Old"
+   },
+   "online_loading": {
+      "message": "Жди ..."
+   },
+   "online_music": {
+      "message": "Онлайн"
+   },
+   "opera": {
+      "message": "Opera"
+   },
+   "playlist_add_selected": {
+      "description": "3 пісні вибрано",
+      "message": "songs selected"
+   },
+   "playlist_add_to": {
+      "description": "Додати в \u003Cplaylist name>",
+      "message": "Add to"
+   },
+   "playlist_empty": {
+      "message": "Плейлист пустий, виберіть трохи музики зі збірника пісень."
+   },
+   "playlist_name": {
+      "message": "Назва плейлиста"
+   },
+   "pop": {
+      "message": "Pop"
+   },
+   "refresh_list": {
+      "message": "Перерузити збірник"
+   },
+   "remote_control": {
+      "message": "Віддалений контроль"
+   },
+   "remote_enable": {
+      "message": "Увімкнути"
+   },
+   "remote_failure": {
+      "message": "Ой,помилка віддаленого керування."
+   },
+   "remote_interface": {
+      "message": "Інтерфейс"
+   },
+   "remote_port": {
+      "message": "Порт"
+   },
+   "remote_scan": {
+      "message": "Проскануй QR код, та відкрийте посилання у мобільному Web - переглядачі."
+   },
+   "remote_stop": {
+      "message": "Стоп"
+   },
+   "remote_success": {
+      "message": "Віддалене керування увімкнено вдало."
+   },
+   "remove_from_playlist": {
+      "description": "\u003Csong title> вилучити з \u003Cplaylist name>",
+      "message": " $TITLE$ вилучити з $PLAYLIST$ ",
+      "placeholders": {
+         "playlist": {
+            "content": "$2"
+         },
+         "title": {
+            "content": "$1"
+         }
+      }
+   },
+   "removed_playlist": {
+      "message": "Плейлист $NAME$ вилучено",
+      "placeholders": {
+         "name": {
+            "content": "$1"
+         }
+      }
+   },
+   "reset": {
+      "message": "Rest"
+   },
+   "revoke_auth": {
+      "message": "Вийти з обл. запису"
+   },
+   "rock": {
+      "message": "Rock"
+   },
+   "scan_complete": {
+      "message": "СКанування виконане"
+   },
+   "search": {
+      "message": "Шукати"
+   },
+   "search_error": {
+      "message": "Шукаю помилку ..."
+   },
+   "search_local": {
+      "message": "Знайдіть пісні"
+   },
+   "search_result_empty": {
+      "message": "Тут я ніц не знайшов ╭(╯3╰)╮."
+   },
+   "search_track": {
+      "message": "Пошук музики"
+   },
+   "setting": {
+      "message": "Налаштування"
+   },
+   "setting_analysis": {
+      "message": "Відсилати анонімні дані про роботу програми, щоб її покращити !"
+   },
+   "setting_hotkey": {
+      "message": "За замовчуванням використовувати швидкі клавіші (MediaNextTrack, MediaPlayPause, MediaPrevTrack).  Вручну додайте ярлики відкривши посилання:"
+   },
+   "setting_notify": {
+      "message": "Якщо плеєр сховано, показувати повідомлення про зміну пісні."
+   },
+   "share": {
+      "message": "Поширити у Twitter"
+   },
+   "size": {
+      "message": "Розмір"
+   },
+   "skip_next": {
+      "message": "Грати наступний трек"
+   },
+   "song_album": {
+      "message": "Альбом"
+   },
+   "song_artist": {
+      "message": "Артист"
+   },
+   "song_title": {
+      "message": "Ім`я"
+   },
+   "song_track": {
+      "message": "Трек"
+   },
+   "songs_empty": {
+      "message": "Локална музика відсутьня, натисніть '+Додати музику' щоб додати музику."
+   },
+   "suggest": {
+      "message": "Пропоноване"
+   },
+   "voice": {
+      "message": "Voice"
+   }
+}

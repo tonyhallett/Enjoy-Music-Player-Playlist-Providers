@@ -1,0 +1,81 @@
+<!DOCTYPE html> <html lang=en> <head> <meta charset=UTF-8> <meta name=apple-mobile-web-app-capable content=yes> <meta name=apple-mobile-web-app-title content=CHAR> <meta name=apple-mobile-web-app-status-bar-style content=black> <meta content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0" name=viewport> <title>Enjoy Music Player</title> <style type=text/css>body {
+      background-color: #000000;
+      margin: 0;
+    }
+    .music-info {
+      position: absolute;
+      width: 100%;
+      bottom: 10px;
+      color: #ffffff;
+    }
+    .detail {
+      margin: 0 50px 50px 50px;
+      -webkit-transform: translate3d(0,0,0);
+      -webkit-perspective: 800px;
+      -moz-perspective: 800px;
+      -webkit-transition: 1000ms;
+    }
+    h3 {
+      -webkit-transform-origin-x: -130px;
+      -webkit-transition: 300ms 0ms;
+      -webkit-transform: translate3d(-130px,0,0) rotateY(-90deg);
+      transform: translate3d(-130px,0,0) rotateY(-90deg);
+      opacity:0;
+    }
+    h5 {
+      -webkit-transform-origin-x: -130px;
+      -webkit-transition: 300ms 80ms;
+      -webkit-transform: translate3d(-130px,0,0) rotateY(-90deg);
+      transform: translate3d(-130px,0,0) rotateY(-90deg);
+      opacity:0;
+    }
+    .detail.now h3, .detail.now h5 {
+      transform: translate3d(0,0,0) rotateY(0deg);
+      opacity:1;
+    }
+
+    h5 {
+      -webkit-transform-origin-x: -130px;
+      -webkit-transition: 300ms 80ms;
+    }
+    .controls {
+      opacity: 0;
+      margin: 0 auto;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-box-pack: center;
+      -webkit-justify-content: center;
+      justify-content: center;
+      -webkit-transition: opacity 1000ms;
+      transition: opacity 1000ms;
+    }
+    .controls audio {
+      width: 500px;
+    }
+    .music-info:hover .controls {
+      opacity: 1
+    }
+    .btn-prev, .btn-next, .visualization, .fullscreen {
+      height: 32px;
+      line-height: 32px;
+      -webkit-appearance: none;
+      border: none;
+      padding: 0 10px;
+      background-color: #FAFAFA;
+      color: #5a5a5a;
+      font-size: 16px
+    }
+    .btn-prev, .btn-next {
+      font-size: 20px
+    }
+    h3 {
+      font-size: 48px;
+      margin: 20px 0;
+      text-shadow: 1px 1px 10px #ffffff;
+    }
+    h5 {
+      margin: 0;
+      font-size: 28px;
+      text-shadow: 1px 1px 10px #ffffff;
+    }</style> </head> <body> <canvas id=visual-canvas></canvas> <div class=music-info> <div class=detail> <h3 class=song-title>title</h3> <h5 class=song-album>artist - album</h5> </div> <div class=controls> <input type=button value=FullScreen class=fullscreen> &nbsp; <input type=button value=Visualization class=visualization> &nbsp; <input type=button class=btn-prev value=" ◀◀ "> <input type=button class=btn-next value=" ▶▶ "> <audio id=player preload=auto autoplay=true controls=""></audio> </div> </div> <script src=/js/remote.js></script><script src="/js/remote.js"></script></body></html>
